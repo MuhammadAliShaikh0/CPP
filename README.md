@@ -1,1 +1,1 @@
-Welcome to my repository containing all my C++ labs completed during my university studies. This repository demonstrates my progress in learning C++ programming,covering fundamental concepts, object-oriented programming, and problem-solving skills.
+Welcome to my repository containing all my C++ labs completed during my university studies. This repository demonstrates my progress in learning C++ programming,covering fundamental concepts,and problem-solving skills.
